@@ -1,0 +1,84 @@
+#define _CRT_SECURE_NO_WARNINGS 1
+#include<stdio.h>
+//最大值
+//int max(int x, int y)
+//{
+//	int z;
+//	if (y > x)
+//		z = y;
+//	else
+//		z = x;
+//	return z;
+//
+//
+//}
+//int main()
+//{
+//
+//	int num1 = 20;
+//	int num2 = 10;
+//	int sum = 0;
+//	scanf("%d%d", &num1, &num2);
+//	sum = max(num1, num2);
+//		printf("%d\n", sum);
+//
+//	return 0;
+//}
+
+
+//飞机小飞机
+//void main()
+//{
+//	printf("            ****                  \n\n");
+//	printf("           ******                 \n\n");
+//	printf("           ******                 \n\n");
+//	printf("          ********                \n\n");
+//	printf("          ********                \n\n");
+//	printf("    **    ********    **          \n\n");
+//	printf("   *** ************** ***        \n\n");
+//	printf(" ************************** \n\n");
+//	printf(" ************************** \n\n");
+//	printf("           *****                  \n\n");
+//	printf("         *********                  \n\n");
+//	printf("       *************                  \n\n");
+//
+//
+//
+//
+//
+//	return 0;
+//}
+
+//年龄表格等等
+//#include<stdio.h>
+//int main()
+//{
+//    printf("Name    Age    Gender\n");
+//    printf("---------------------\n");
+//    printf("Jack    18     man\n");
+//    return 0;
+//}
+//请计算表达式
+//
+//#include<stdio.h>
+//int main()
+//{
+//	int a = 40, c = 212;
+//	printf("%d", (-8 + 22) * a - 10 + c / 2);
+//	return 0;
+//
+//}
+// 计算Y的值
+//#include <stdio.h>
+//int main() {
+//    int x, y;
+//    scanf("%d", &x);
+//    if (x < 0)
+//        y = 1;
+//    else if (x == 0)
+//        y = 0;
+//    else
+//        y = -1;
+//    printf("%d", y);
+//    return 0;
+//}
